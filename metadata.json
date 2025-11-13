@@ -1,0 +1,5 @@
+{
+  "name": "MB POST",
+  "description": "Faça o upload da foto de um produto e a IA criará uma arte e legendas para Instagram, Facebook e Twitter.",
+  "requestFramePermissions": []
+}
